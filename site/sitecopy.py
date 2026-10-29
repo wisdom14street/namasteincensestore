@@ -120,6 +120,7 @@ def LANDINGS(S):
     return L
 
 BRAND_TEXT = {
+ 'escential-essences': 'Made in the USA and represented by Matchless Gifts, Escential Essences dips its sticks and one-inch cones by hand in cosmetic-grade oils. A long scent list at small prices.',
  'hem': 'HEM sells the most boxes in our value aisles. The company, HEM Corporation, was started in India in 1983 by three Shah brothers and now has plants in Mumbai and Bengaluru.',
  'satya': "Satya's hand-rolled masala sticks come from Shrinivas Sugandhalaya in Bangalore, whose Sai Baba Nag Champa is the original of the famous blue box. Multi-packs are the cheapest way to keep it in the house.",
  'morning-star': 'Low-smoke Japanese sticks from Nippon Kodo, normally packed with a small holder, so one box is a ready-made gift.',
