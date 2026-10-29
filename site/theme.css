@@ -1,0 +1,8 @@
+:root{--ink:#13294b;--onink:#ffffff;--paper:#f7f7f2;--card:#ffffff;--soft:#fff4c7;--muted:#4c566a;--line:#dfe3ea;--accent:#ffd23f;--onaccent:#13294b;--accentdark:#c2410c;--focus:#ff6b4a;
+--display:Archivo,system-ui,sans-serif;--body:Archivo,system-ui,-apple-system,"Segoe UI",sans-serif;--r:14px;--btnr:999px}
+h1,h2,h3{font-weight:800;letter-spacing:-.02em}
+.hero{background:#13294b;background-image:radial-gradient(circle at 90% 10%,#ff6b4a 0 120px,transparent 121px),radial-gradient(circle at 75% 95%,#ffd23f33 0 180px,transparent 181px)}
+.hero h1 em{color:#ffd23f}.bar{background:#ff6b4a;color:#fff}
+.card .price{color:#c2410c;font-size:17px}.card{border-width:2px}.collage img{border-radius:18px}
+.coll div{background:linear-gradient(transparent,#13294bee 50%)}.coll span{color:#ffd23f}
+.whys li{border-left-color:#ff6b4a}
